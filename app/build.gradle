@@ -72,4 +72,7 @@ dependencies {
     implementation "com.airbnb.android:epoxy-paging3:$epoxy_version"
     implementation "com.airbnb.android:epoxy-databinding:$epoxy_version"
     implementation "com.airbnb.android:epoxy-glide-preloading:$epoxy_version"
+
+    // RxJava
+    implementation "io.reactivex.rxjava3:rxjava:3.1.5"
 }
